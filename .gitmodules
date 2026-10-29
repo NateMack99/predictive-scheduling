@@ -1,0 +1,3 @@
+[submodule "LLM-Length-Estimation"]
+	path = LLM-Length-Estimation
+	url = git@github.com:NateMack99/LLM-Length-Estimation.git
