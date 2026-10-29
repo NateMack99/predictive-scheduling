@@ -1,0 +1,8 @@
+# Training, prediction, and dataset preparation dependencies.
+accelerate
+datasets
+numpy
+scikit-learn
+torch
+tqdm
+transformers
