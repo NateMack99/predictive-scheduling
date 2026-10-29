@@ -1,3 +1,11 @@
+"""
+Use this to reformat the csv files in training_data into json with keys:
+'prompt': input prompt
+'length': output length in tokens (using qwen tokenizer) 
+Currently only supports Qwen
+"""
+
+
 import json
 import csv
 from pathlib import Path
